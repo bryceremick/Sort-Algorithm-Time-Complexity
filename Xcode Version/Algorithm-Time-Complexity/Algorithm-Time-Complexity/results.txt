@@ -1,0 +1,33 @@
+Sorted Array[1000]
+----------------
+Sorted Insertion Sort Avg: 4.32709 Microseconds
+Sorted Selection Sort Avg: 1152.3 Microseconds
+Sorted Bubble Sort Avg: 2.60218 Microseconds
+Sorted Quick Sort Avg: 20.7289 Microseconds
+Sorted Merge Sort Avg: 76.1352 Microseconds
+
+Shuffled Array[1000]
+------------------
+Shuffled Insertion Sort Avg: 741.669 Microseconds
+Shuffled Selection Sort Avg: 1184.75 Microseconds
+Shuffled Bubble Sort Avg: 1917.41 Microseconds
+Shuffled Quick Sort Avg: 87.8602 Microseconds
+Shuffled Merge Sort Avg: 131.462 Microseconds
+
+Reversed Array[1000]
+-------------------
+Reversed Insertion Sort Avg: 1417.95 Microseconds
+Reversed Selection Sort Avg: 1169.76 Microseconds
+Reversed Bubble Sort Avg: 2157.23 Microseconds
+Reversed Quick Sort Avg: 19.9752 Microseconds
+Reversed Merge Sort Avg: 74.3922 Microseconds
+
+10% Sorted/Shuffled Array[1000]
+------------------------------
+10% Insertion Sort Avg: 625.526 Microseconds
+10% Selection Sort Avg: 1266.24 Microseconds
+10% Bubble Sort Avg: 1953.48 Microseconds
+10% Quick Sort Avg: 90.5445 Microseconds
+10% Merge Sort Avg: 142.312 Microseconds
+
+---------------------------------------------------------------

@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\bryce\desktop\sort algorithm complexity benchmark\sort algorithm complexity benchmark\array_class.cpp(280): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  c:\users\bryce\desktop\sort algorithm complexity benchmark\sort algorithm complexity benchmark\array_class.cpp(275): note: while compiling class template member function 'ARRAY_CLASS<int>::ARRAY_CLASS(int)'
+  c:\users\bryce\desktop\sort algorithm complexity benchmark\sort algorithm complexity benchmark\source.cpp(55): note: see reference to function template instantiation 'ARRAY_CLASS<int>::ARRAY_CLASS(int)' being compiled
+  c:\users\bryce\desktop\sort algorithm complexity benchmark\sort algorithm complexity benchmark\source.cpp(55): note: see reference to class template instantiation 'ARRAY_CLASS<int>' being compiled
+  Sort Algorithm Complexity Benchmark.vcxproj -> C:\Users\bryce\Desktop\Sort Algorithm Complexity Benchmark\Debug\Sort Algorithm Complexity Benchmark.exe
